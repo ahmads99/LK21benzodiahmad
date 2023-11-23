@@ -1,5 +1,5 @@
-##Submission Dicoding Belajar Fundamental Front-End Web Development
-##LK21 BENZODIAHMAD
+#Submission Dicoding Belajar Fundamental Front-End Web Development
+#LK21 BENZODIAHMAD
 
 BINTANG = 4 STARS
 
